@@ -9,7 +9,8 @@ public class Deposito {
     private static void operativa_cuenta(float cantidad) {
         CCuenta cuenta1;
         double saldoActual;
-
+        
+        System.out.println("EDICION 1");
         cuenta1 = new CCuenta("Antonio Lopez", "1000-2365-85-123456789", 2500, 0);
         saldoActual = cuenta1.estado();
         System.out.println("El saldo actual es" + saldoActual);
