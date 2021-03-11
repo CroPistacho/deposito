@@ -4,6 +4,7 @@ package cuentas;
  * @version 1.0
  * @author mart
  * @since 09/03/2021
+ * Visto. Muy chula la flecha, pero donde esté un copia pega ...
  */
 public class CCuenta {
 
